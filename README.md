@@ -11,10 +11,9 @@
 <a href="https://x.com/KasarLabs">
 <img src="https://img.shields.io/twitter/follow/KasarLabs?style=social"/> </a>
 <a href="https://github.com/kasarlabs/ditto">
-<img src="https://img.shields.io/github/stars/kasarlabs/ditto?style=social"/>
-</a>
+<img src="https://img.shields.io/github/stars/kasarlabs/ditto?style=social"/> </a>
+<a href="https://github.com/KasarLabs/ditto/stargazers">
 
-</div>
 
 # ⚙️ Ditto: Library to test and benchmark Starknet full nodes
 
