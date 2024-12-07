@@ -6,9 +6,9 @@
 <br />
 <!-- markdownlint-restore -->
 
-[![Project license](https://img.shields.io/github/license/kasarLabs/ditto.svg?style=flat-square)](LICENSE)
-[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/kasarLabs/ditto/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-<a href="https://twitter.com/KasarLabs">
+[![Project license](https://img.shields.io/github/license/kasarLabs/ditto.svg?style=flat-square)](https://opensource.org/license/mit)
+[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/kasarLabs/ditto/issues?q=is%3Aissue+is%3Aopen)
+<a href="https://x.com/KasarLabs">
 <img src="https://img.shields.io/twitter/follow/KasarLabs?style=social"/> </a>
 <a href="https://github.com/kasarlabs/ditto">
 <img src="https://img.shields.io/github/stars/kasarlabs/ditto?style=social"/>
